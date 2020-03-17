@@ -1,7 +1,7 @@
 # Python Data Science Handbook
 ## Essential Tools for Working with Data
 
-This repository stores the notebooks and projects I worked on while following the <em>Python for Data Science Handbook</em> by Jake VanderPlas. 
+This repository stores the notebooks and projects I worked on while following the <em>Python for Data Science Handbook</em> by Jake VanderPlas (O'Reilly). 
 
 
 Resources:
